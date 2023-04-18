@@ -1,0 +1,27 @@
+#400 a 700
+"GRUPO 1 - Irradianca_escalar DURANTE A PLACA _ 14-25_14-29.csv"
+121090.3 with absolute error < 14
+
+"GRUPO 1 - Irradianca_planar DURANTE A PLACA _ 14-25_14-29.csv"
+74194.57 with absolute error < 7.3
+
+"GRUPO 1 - Radiancia PLACA _ 14-25_14-29.csv"
+37615.85 with absolute error < 4.2
+
+"GRUPO 2 - Irradiancia escalar DURANTE A PLACA _ 14-52_14-57.csv"
+66285.55 with absolute error < 6.2
+
+"GRUPO 2 - Irradiancia planar DURANTE A PLACA _ 14-52_14-57.csv"
+39029.12 with absolute error < 4.1
+
+"GRUPO 2 - Irradiancia_escalar DURANTE O SOLO_15_06-15_09.csv"
+27504.79 with absolute error < 3.2
+
+"GRUPO 2 - Irradiancia_planar DURANTE O SOLO _ 15_06-15_09.csv"
+16417.93 with absolute error < 1.9
+
+"GRUPO 2 - Radiancia PLACA _ 14-52_14-57.csv"
+19518.93 with absolute error < 2.3
+
+"GRUPO 2 - Radiancia SOLO _ 15-06_15_09.csv"
+424.9866 with absolute error < 0.045
